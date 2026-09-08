@@ -240,4 +240,4 @@ This repository serves as the official landing page for DynSite. The software is
 **Get the most recent version of DynSite today!**
 
 ---
-**Last updated:** 2026-09-08 14:50:05 UTC
+**Last updated:** 2026-09-08 18:12:23 UTC
